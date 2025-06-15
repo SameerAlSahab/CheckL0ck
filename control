@@ -1,0 +1,11 @@
+Package: com.yourcompany.checklc
+Name: ChecklC
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Rootless passcode & biometric lock for iOS 15–16 (Checkl0ck clone)
+Maintainer: Your Name <you@example.com>
+Depends: firmware (>=15.0), firmware (<=16.9), preferenceloader, rocketbootstrap
+Section: Tweaks
+Author: Your Name
+SileoDepiction: https://yourdomain.com/depictions/checklc-rootless.json
+Rootless: true 

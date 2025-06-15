@@ -1,0 +1,9 @@
+Package: com.yourcompany.checkl0ck
+Name: Checkl0ck
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Re-enable passcode and biometrics on A11 (iPhone 8/X) checkm8 jailbreaks.
+Maintainer: Your Name <you@example.com>
+Depends: firmware (>=14.0), firmware (<=16.9), preferenceloader
+Section: Tweaks
+Author: Your Name 
